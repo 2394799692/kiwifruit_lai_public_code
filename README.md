@@ -75,6 +75,12 @@ python 07_orchard_lai_mapping.py \
   --date 2024-09-28 \
   --output-dir outputs/lai_mapping
 ```
+## UAVdata
+Due to the large size of the drone file, approximately 6GB, we uploaded it to Quark Cloud, which contains orthophoto images of the kiwifruit orchard in Dinghe Town for May, August, and September. Each month's folder includes pre spliced multispectral images of the green, red, red edge, and near red outer bands collected using DJI M3M：
+I have shared 'UAV-data. zip' with you using Quark Cloud. Click on the link or copy the entire content, and open the Quark APP to access it.
+/~88853YQDz7~:/
+Link: https://pan.quark.cn/s/da72cf8f8f82
+
 
 ## Notes
 
