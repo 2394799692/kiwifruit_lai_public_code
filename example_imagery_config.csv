@@ -1,0 +1,3 @@
+Date,Green,Red,RedEdge,NIR,Green_a,Green_b,Red_a,Red_b,RedEdge_a,RedEdge_b,NIR_a,NIR_b
+2024-08-07,path/to/Aug/result_Green.tif,path/to/Aug/result_Red.tif,path/to/Aug/result_RedEdge.tif,path/to/Aug/result_NIR.tif,1,0,1,0,1,0,1,0
+2024-09-28,path/to/Sep/result_Green.tif,path/to/Sep/result_Red.tif,path/to/Sep/result_RedEdge.tif,path/to/Sep/result_NIR.tif,1,0,1,0,1,0,1,0

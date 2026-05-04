@@ -1,0 +1,13 @@
+numpy
+pandas
+geopandas
+shapely
+rasterio
+scikit-image
+scikit-learn
+scipy
+matplotlib
+tqdm
+joblib
+openpyxl
+xgboost  # optional; used only by 06_model_benchmark_groupcv.py if installed
