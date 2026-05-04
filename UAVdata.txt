@@ -1,0 +1,10 @@
+Due to the large size of the drone file, approximately 6GB, we uploaded it to Quark Cloud, which contains orthophoto images of the kiwifruit orchard in Dinghe Town for May, August, and September. Each month's folder includes pre spliced multispectral images of the green, red, red edge, and near red outer bands collected using DJI M3M：
+I have shared 'UAV-data. zip' with you using Quark Cloud. Click on the link or copy the entire content, and open the Quark APP to access it.
+/~88853YQDz7~:/
+Link: https://pan.quark.cn/s/da72cf8f8f82
+
+
+由于无人机文件过大，大约6GB左右，我们上传在了夸克网盘，里面有5月份，8月份和9月份三个月份的丁河镇猕猴桃果园正射影像图，每个月份的文件夹包括使用大疆M3M采集的绿、红、红边和近红外四个波段的已拼接好的多光谱图像：
+我用夸克网盘给你分享了「UAV-data.zip」，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~88853YQDz7~:/
+链接：https://pan.quark.cn/s/da72cf8f8f82
